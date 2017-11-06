@@ -4,10 +4,14 @@
  * 6/11/2017
  */
 
+///includes
 #include <iostream>
 #include <stdio.h>
+
+///define PI
 #define PI 3.141592654
 
+///namespace
 using namespace std;
 
 ///Input:
